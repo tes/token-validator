@@ -1,6 +1,6 @@
 {
   "name": "token-validator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Validate a string with a token (with limited duration)",
   "main": "index.js",
   "scripts": {
